@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+fastapi
+uvicorn
+joblib
+matplotlib
+plotly
+streamlit
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pytest
+httpx
